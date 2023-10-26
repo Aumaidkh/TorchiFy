@@ -17,3 +17,4 @@ local.properties
 keys/Keys.txt
 keys/KeyStore.jks
 /keys/
+/gradle.properties

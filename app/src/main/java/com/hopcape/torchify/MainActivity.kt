@@ -37,7 +37,7 @@ class MainActivity : ComponentActivity() {
     }
 
     private fun initAppCenter(){
-        AppCenter.start(application, "",
+        AppCenter.start(application, com.hopcape.torchify.BuildConfig.APP_CENTER_SECRET,
             Analytics::class.java, Crashes::class.java)
     }
 
