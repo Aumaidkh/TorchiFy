@@ -14,5 +14,6 @@
 .cxx
 local.properties
 /app/release/
-keys.txt
-KeyStore.jks
+keys/Keys.txt
+keys/KeyStore.jks
+/keys/
